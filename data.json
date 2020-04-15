@@ -1,0 +1,269 @@
+{
+  "title": "quiz title",
+  "outcomes": {
+    "outcome0": {
+      "img": "./images/results_gull.png",
+      "text": "Gatling Gull from 'Enter the Gungeon'"
+    },
+    "outcome1": {
+      "img": "./images/results_sans.jpg",
+      "text": "Sans from 'Undertale'"
+    },
+    "outcome2": {
+      "img": "./images/waluigi.jpg",
+      "text": "Waluigi from the Mario Franchise"
+    },
+    "outcome3": {
+      "img": "./images/results_villager.png",
+      "text": "Villager from 'Animal Crossing'"
+    },
+    "outcome4": {
+      "img": "./images/results_lara_croft.jpg",
+      "text": "Lara Croft"
+    },
+    "outcome5": {
+      "img": "./images/hollow_knight.png",
+      "text": "The Knight from 'Hollow Knight'"
+    },
+    "outcome6": {
+      "img": "./images/results_geralt.jpg",
+      "text": "Geralt of Rivia from 'The Witcher'"
+    },
+    "outcome7": {
+      "img": "./images/Kirby_SSB4.png",
+      "text": "Kirby"
+    },
+    "outcome8": {
+      "img": "./images/results_titan.jpg",
+      "text": "Protagonist from 'Titan Souls'"
+    },
+    "outcome9": {
+      "img": "./images/results_bread.jpg",
+      "text": "The loaf of bread from 'I am Bread'"
+    },
+    "outcome10": {
+      "img": "./images/results_peach.png",
+      "text": "Peach from the Mario Franchise"
+    },
+    "outcome11": {
+      "img": "./images/results_doom_guy.jpg",
+      "text": "Doom Guy from 'Doom'"
+    },
+    "outcome12": {
+      "img": "./images/goose.jpg",
+      "text": "Goose from 'Untitled Goose Game'"
+    },
+    "outcome13": {
+      "img": "./images/results_red.jpg",
+      "text": "Red from 'Transistor'"
+    },
+    "outcome14": {
+      "img": "./images/Solid_Snake.jpg",
+      "text": "Solid Snake from 'Metal Gear'"
+    },
+    "outcome15": {
+      "img": "./images/results_dishonored.jpg",
+      "text": "Corvo from 'Dishonored'"
+    },
+    "outcome16": {
+      "img": "./images/revali.jpg",
+      "text": "Revali from 'Breath of the Wild'"
+    },
+    "outcome17": {
+      "img": "./images/results_link.jpg",
+      "text": "Link from 'Breath of the Wild'"
+    },
+    "outcome18": {
+      "img": "./images/results_samus.jpg",
+      "text": "Samus from 'Metroid'"
+    },
+    "outcome19": {
+      "img": "./images/results_falco.png",
+      "text": "Falco Lombardi from 'Star Fox'"
+    },
+    "outcome20": {
+      "img": "./images/results_stealth_inc.jpg",
+      "text": "The clones from 'Stealth Inc'"
+    },
+    "outcome21": {
+      "img": "./images/results_starview.jpg",
+      "text": "The character from 'Starview Valley'"
+    },
+    "outcome22": {
+      "img": "./images/results_sims.jpg",
+      "text": "A sim from 'The Sims'"
+    },
+    "outcome23": {
+      "img": "./images/results_isabelle.jpg",
+      "text": "Isabelle from 'Animal Crossing'"
+    }
+  },
+  "questions": [
+    {
+      "question_name": "q1",
+      "text": "Which setting would you prefer?",
+      "answers": [
+        {
+          "text": "Fantasy",
+          "img_url": "./images/fantasy.jpg",
+          "outcome": "0,1,2,5,6,7,8,10,15,16,17"
+        },
+        {
+          "text": "Sci-fi",
+          "img_url": "./images/sci-fi.jpg",
+          "outcome": "11,13,14,18,19,20"
+        },
+        {
+          "text": "Earth",
+          "img_url": "./images/world.jpg",
+          "outcome": "2,3,4,14,15,12,21,22,20,23"
+        },
+        {
+          "text": "Some Town",
+          "img_url": "./images/town2.jpg",
+          "outcome": "1,2,3,9,10,12,16,21,22,23"
+        }
+      ]
+    },
+    {
+      "question_name": "q2",
+      "text": "What would you like to do?",
+      "answers": [
+        {
+          "text": "Fight/Kill",
+          "img_url": "./images/demon.jpg",
+          "outcome": "0,5,6,8,11,13,7,18,19,16"
+        },
+        {
+          "text": "Explore/Survive",
+          "img_url": "./images/explore.jpg",
+          "outcome": "4,5,6,17,9"
+        },
+        {
+          "text": "Stealthily Infiltrate",
+          "img_url": "./images/hiding.jpg",
+          "outcome": "14,15,4,20"
+        },
+        {
+          "text": "Have a mostly peaceful life",
+          "img_url": "./images/town.jpg",
+          "outcome": "3,9,10,21,22,23"
+        },
+        {
+          "text": "Cause mischief",
+          "img_url": "./images/mischief.png",
+          "outcome": "2,12,1,9"
+        }
+      ]
+    },
+    {
+      "question_name": "q3",
+      "text": "Which graphical style do you prefer?",
+      "answers": [
+        {
+          "text": "Realistic",
+          "img_url": "./images/realistic_human.jpg",
+          "outcome": "4,6,11,14,15,9,22"
+        },
+        {
+          "text": "Stylized/Cartoonish",
+          "img_url": "./images/stylized_3d.jpg",
+          "outcome": "2,3,7,10,12,13,16,17,19,22,23"
+        },
+        {
+          "text": "2D",
+          "img_url": "./images/2d.gif",
+          "outcome": "0,1,5,12,13,18,20,21"
+        }
+      ]
+    },
+    {
+      "question_name": "q4",
+      "text": "Which of these would you like to have?",
+      "answers": [
+        {
+          "text": "Firearms",
+          "img_url": "./images/firearms.jpg",
+          "outcome": "0,4,11,14,18,19"
+        },
+        {
+          "text": "A bow",
+          "img_url": "./images/bow.jpg",
+          "outcome": "4,7,8,16"
+        },
+        {
+          "text": "Clothes",
+          "img_url": "./images/clothes.jpg",
+          "outcome": "2,1,3,4,6,10,13,14,15,16,17,19,21,22,23"
+        },
+        {
+          "text": "Magical Powers",
+          "img_url": "./images/magic.jpg",
+          "outcome": "15,6,1,9"
+        },
+        {
+          "text": "Technology",
+          "img_url": "./images/mech_suit.jpg",
+          "outcome": "13,11,19,18,14,20"
+        },
+        {
+          "text": "Melee Weapons",
+          "img_url": "./images/melee.jpg",
+          "outcome": "5,6,8,13,17"
+        },
+        {
+          "text": "Feathers",
+          "img_url": "./images/feathers.jpg",
+          "outcome": "12,0,16,19"
+        }
+      ]
+    },
+    {
+      "question_name": "q5",
+      "text": "Who would you like as enemies?",
+      "answers": [
+        {
+          "text": "Bad guys",
+          "img_url": "./images/bad_guys.jpg",
+          "outcome": "4,14,13,15,19,20"
+        },
+        {
+          "text": "Monsters/Demons",
+          "img_url": "./images/monster.jpg",
+          "outcome": "5,6,7,11,8,16,17,18"
+        },
+        {
+          "text": "People",
+          "img_url": "./images/people.jpg",
+          "outcome": "12,0,2,20"
+        },
+        {
+          "text": "Nobody",
+          "img_url": "./images/nobody.jpg",
+          "outcome": "3,1,9,10,21,22,20,23"
+        }
+      ]
+    },
+    {
+      "question_name": "q6",
+      "text": "What would you like to be?",
+      "answers": [
+        {
+          "text": "Human-like",
+          "img_url": "./images/human.jpg",
+          "outcome": "2,3,4,6,10,11,14,15,8,13,17,18,21,22"
+        },
+        {
+          "text": "Animal-like",
+          "img_url": "./images/animal.jpg",
+          "outcome": "12,5,0,19,16,23"
+        },
+        {
+          "text": "Some other kind of creature",
+          "img_url": "./images/creature.jpg",
+          "outcome": "7,1,9,0,20"
+        }
+      ]
+    }
+  ]
+}
