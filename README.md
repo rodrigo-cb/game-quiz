@@ -1,7 +1,6 @@
-# lab2-quizzical-rcaverob
-lab2-quizzical-rcaverob created by GitHub Classroom
+# Quiz Framework
 
-## What I Did
+This is a simple online quiz framework which reads data from a JSON file to generate a quiz html which outputs a result based on answers to a range of questions.
+It can be used to make all sorts of different online quizes. Check out the following example to see which game character are you:
 
-I went with the javascript focus so I created a generalized framework for quizzes, reading data from a JSON file to 
-generate the html. I created a quiz about video game characters with this.
+Live website: https://game-character-quiz.netlify.app/
